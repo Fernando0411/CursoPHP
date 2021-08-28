@@ -8,8 +8,16 @@
 </head>
 <body>
     <?php
-        $titulo = "<h1>¡¡ HOLA MUNDO !!</h1>";
-        echo $titulo;
+        echo "<h1> ¡¡ HOLA MUNDO !!</h1>";
+        echo "Hola programadores";
+        echo "<p>Hola</p>";
+        print("Esto es lo que hago con print");
+        // Esta es una etiqueta de comentarios de una sola línea
+        ## Esta es otra etiqueta de comentarios de una sola línea
+        /* 
+            Esta es una etiqueta multilíneas
+            // Esta es una etiqueta de una sola línea dentro de una etiqueta multilíneas
+        */
     ?>
 </body>
 </html>
